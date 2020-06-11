@@ -77,7 +77,7 @@ btn.addEventListener("click", function (e) {
     let book = new Book(Name, Author, Type)
     console.log(book)
 
-    lStorage()
+
 
     // Name = document.getElementById('bookName').value = "";
     // Author = document.getElementById('author').value = "";
